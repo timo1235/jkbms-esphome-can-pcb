@@ -1,12 +1,12 @@
 # JK-BMS ESP32 CAN project
 
-<img src="images/ESP32%20JK-BMS-500px.jpg" width="300" />
+<img src="images/ESP32%20JK-BMS-7-500px.jpg" width="300" />
+<img src="images/ESP32%20JK-BMS-6-500px.jpg" width="300" />
+<img src="images/ESP32%20JK-BMS-5-500px.jpg" width="300" />
 <img src="images/ESP32%20JK-BMS-2-500px.jpg" width="300" />
 <img src="images/ESP32%20JK-BMS-3-500px.jpg" width="300" />
 <img src="images/ESP32%20JK-BMS-4-500px.jpg" width="300" />
-<img src="images/ESP32%20JK-BMS-5-500px.jpg" width="300" />
-<img src="images/ESP32%20JK-BMS-6-500px.jpg" width="300" />
-<img src="images/ESP32%20JK-BMS-7-500px.jpg" width="300" />
+<img src="images/ESP32%20JK-BMS-500px.jpg" width="300" />
 
 This repository contains all the files I used to create a pcb and a housing for the [esphome jk bms project](https://github.com/Uksa007/esphome-jk-bms-can).
 
